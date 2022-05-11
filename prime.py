@@ -1,4 +1,4 @@
-c=int(input())
+c=int(input("Enter a number: "))
 x=0
 if c>1:
     for i in range(2,c+1):
